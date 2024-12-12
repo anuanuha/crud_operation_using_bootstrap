@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "3",
+      "name": "Bob Johnson",
+      "username": "bobjohnson",
+      "email": "bobjohnson@example.com",
+      "phone": "345-678-9012",
+      "website": "bobjohnson.com"
+    },
+    {
+      "id": "4",
+      "name": "Alice Brown",
+      "username": "alicebrown",
+      "email": "alicebrown@example.com",
+      "phone": "456-789-0123",
+      "website": "alicebrown.com"
+    },
+    {
+      "id": "5",
+      "name": "Charlie Davis",
+      "username": "charliedavis",
+      "email": "charliedavis@example.com",
+      "phone": "567-890-1234",
+      "website": "charliedavis.com"
+    },
+    {
+      "id": "6",
+      "name": "Emily White",
+      "username": "emilywhite",
+      "email": "emilywhite@example.com",
+      "phone": "678-901-2345",
+      "website": "emilywhite.com"
+    },
+    {
+      "id": "7",
+      "name": "Michael Scott",
+      "username": "michaelscott",
+      "email": "michaelscott@example.com",
+      "phone": "789-012-3456",
+      "website": "michaelscott.com"
+    },
+    {
+      "id": "8",
+      "name": "Sarah Miller",
+      "username": "sarahmiller",
+      "email": "sarahmiller@example.com",
+      "phone": "890-123-4567",
+      "website": "sarahmiller.com"
+    },
+    {
+      "id": "9",
+      "name": "David Wilson",
+      "username": "davidwilson",
+      "email": "davidwilson@example.com",
+      "phone": "901-234-5678",
+      "website": "davidwilson.com"
+    },
+    {
+      "id": "10",
+      "name": "Laura Martinez",
+      "username": "lauramartinez",
+      "email": "lauramartinez@example.com",
+      "phone": "012-345-6789",
+      "website": "lauramartinez.com"
+    },
+    {
+      "id": "38fc",
+      "name": "anu H A",
+      "email": "anuanuha2001@gmail.com",
+      "phone": "9353332102"
+    }
+  ]
+}
